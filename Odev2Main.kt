@@ -5,13 +5,13 @@ fun main(){
     val f = Odev2()
 
     var soru1 = f.soru1(5)
-    println("İç açılar toplamık : $soru1")
+    println("İç açılar toplamı : $soru1")
 
-    var soru2 = f.soru2(10)
+    var soru2 = f.soru2(20)
     println("Maaş toplamı : $soru2")
 
     var soru3 = f.soru3(5)
-    println("Otopark ücret : $soru3")
+    println("Otopark ücreti : $soru3")
 
     var soru4 = f.soru4(5.0)
     println("Mil : $soru4")
